@@ -19,3 +19,27 @@ c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\b
 c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.UI.csprojResolveAssemblyReference.cache
 c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\Views\PlaybackPanel.baml
 c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\Views\PlaybackPanel.g.cs
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.Common.dll
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.Common.pdb
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.UI.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\Views\MediaPanel.baml
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\Views\PlaybackPanel.baml
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MPWindow.g.cs
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\Views\MediaPanel.g.cs
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\Views\PlaybackPanel.g.cs
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MPWindow.baml
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.UI.Properties.Resources.resources
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.UI.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer.UI\bin\Debug\MediaPlayer.exe.config
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer.UI\obj\Debug\MediaPlayer.exe
+C:\Users\Richard\Documents\GitHub\MediaPlayer\MediaPlayer.UI\obj\Debug\MediaPlayer.pdb
