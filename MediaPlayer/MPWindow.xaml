@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Views="clr-namespace:MediaPlayer.UI.Views" x:Name="MusicPlayer_Window" x:Class="MediaPlayer.UI.MPWindow"
+        Title="MPWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel x:Name="Media_StackPanel" Height="237" VerticalAlignment="Top" Width="520" Margin="0,38,0,0">
+            <Views:MediaPanel x:Name="MediaPanel"/>
+        </StackPanel>
+        <StackPanel x:Name="Playback_StackPanel" Height="48" Margin="0,275,0,-0.2" VerticalAlignment="Top" Width="520">
+            <Views:PlaybackPanel x:Name="Playback_Control"/>
+        </StackPanel>
+        <Menu x:Name="MP_Menu" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="520" HorizontalContentAlignment="Stretch">
+            <MenuItem x:Name="Menu" Header="Menu" Click="Menu_Click">
+                <MenuItem x:Name="AddSong_MenuItem" Header="Add Song" HorizontalAlignment="Left" Width="139.6"/>
+                <Separator/>
+                <MenuItem x:Name="Exit_MenuItem" Header="Exit" HorizontalAlignment="Left" Width="139.6" Click="Exit_MenuItem_Click"/>
+                
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\bin\Debug\MediaPlayer.Common.dll
+c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\bin\Debug\MediaPlayer.Common.pdb
+c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.dll
+c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.pdb

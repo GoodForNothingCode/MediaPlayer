@@ -1,0 +1,1 @@
+c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
