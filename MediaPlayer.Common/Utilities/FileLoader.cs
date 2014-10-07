@@ -16,8 +16,8 @@ namespace MediaPlayer.Common.Utilities
         {
             OpenFileDialog openFD = new OpenFileDialog();
             openFD.AddExtension = true;
-            openFD.DefaultExt = "*.*";
-            openFD.Filter = "Media Files (*.*)|*.*";
+            openFD.DefaultExt = "*.mp3";
+            openFD.Filter = "Media Files (*.mp3)|*.mp3";
             openFD.ShowDialog();
 
             _FilePath = openFD.FileName;

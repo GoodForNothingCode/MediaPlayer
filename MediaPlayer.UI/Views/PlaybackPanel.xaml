@@ -3,11 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             mc:Ignorable="d" 
-             d:DesignHeight="48" d:DesignWidth="580">
-    <Grid Margin="0,0,0,-4">
-        <Button x:Name="Play_Button" Content="Play" HorizontalAlignment="Left" Margin="85,10,0,0" VerticalAlignment="Top" Width="75" Click="Play_Button_Click"/>
-        <Button x:Name="Stop_Button" Content="Stop" HorizontalAlignment="Left" Margin="180,10,0,0" VerticalAlignment="Top" Width="75" Click="Stop_Button_Click"/>
+             mc:Ignorable="d" Width="540" Height="65" Margin="5,5,5,5">
+    <Grid Margin="0,0,0,0">
+        <Button x:Name="PlayPause_Button" Content="Play" HorizontalAlignment="Left" Margin="195,35,0,0" VerticalAlignment="Top" Width="75" Click="Play_Button_Click"/>
+        <Button x:Name="Stop_Button" Content="Stop" HorizontalAlignment="Left" Margin="288,35,0,0" VerticalAlignment="Top" Width="75" Click="Stop_Button_Click"/>
+        <Button x:Name="Prev_Button" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="105,35,0,0" VerticalAlignment="Top" Width="75" Click="Prev_Button_Click"/>
+        <Button x:Name="Next_Button" Content="&gt;&gt;" HorizontalAlignment="Left" Margin="382,35,0,0" VerticalAlignment="Top" Width="75" Click="Next_Button_Click"/>
+        <Slider x:Name="SeekBar_Slider" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="521" ValueChanged="SeekBar_Slider_ValueChanged"/>
 
     </Grid>
 </UserControl>

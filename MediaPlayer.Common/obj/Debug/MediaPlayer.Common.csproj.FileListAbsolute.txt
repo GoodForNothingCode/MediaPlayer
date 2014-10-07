@@ -2,3 +2,8 @@ c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.C
 c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\bin\Debug\MediaPlayer.Common.pdb
 c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.dll
 c:\users\richard\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.pdb
+C:\Users\ccrlan1rra\Desktop\MediaPlayer-master\MediaPlayer-master\MediaPlayer.Common\bin\Debug\MediaPlayer.Common.dll
+C:\Users\ccrlan1rra\Desktop\MediaPlayer-master\MediaPlayer-master\MediaPlayer.Common\bin\Debug\MediaPlayer.Common.pdb
+C:\Users\ccrlan1rra\Desktop\MediaPlayer-master\MediaPlayer-master\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.dll
+C:\Users\ccrlan1rra\Desktop\MediaPlayer-master\MediaPlayer-master\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.pdb
+C:\Users\ccrlan1rra\Desktop\MediaPlayer-master\MediaPlayer-master\MediaPlayer.Common\obj\Debug\MediaPlayer.Common.csprojResolveAssemblyReference.cache

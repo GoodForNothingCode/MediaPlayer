@@ -21,9 +21,11 @@ namespace MediaPlayer.UI
     /// </summary>
     public partial class MPWindow : Window
     {
+        
         public MPWindow()
         {
             InitializeComponent();
+            MediaController.Initalize(this.MediaPanel);
         }
 
         private void Exit_MenuItem_Click(object sender, RoutedEventArgs e)
@@ -31,7 +33,7 @@ namespace MediaPlayer.UI
             ApplicationController.Exit(this);
         }
 
-        private void Menu_Click(object sender, RoutedEventArgs e)
+        private void AddSong_MenuItem_Click(object sender, RoutedEventArgs e)
         {
             LibraryController.AddSong();
         }
